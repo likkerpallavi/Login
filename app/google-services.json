@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "512079784720",
+    "firebase_url": "https://project-april-july-default-rtdb.firebaseio.com",
+    "project_id": "project-april-july",
+    "storage_bucket": "project-april-july.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512079784720:android:b78edcdd1b4177f13d1395",
+        "android_client_info": {
+          "package_name": "com.example.roommate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512079784720-2rvh61tv3b1headl5eq52lolsocbdqiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW00pRjjeYB9GwFYt9ZkU-_Yf2MC5nFAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512079784720-2rvh61tv3b1headl5eq52lolsocbdqiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512079784720:android:f90a0f545ebbf43d3d1395",
+        "android_client_info": {
+          "package_name": "extended.ui.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512079784720-2rvh61tv3b1headl5eq52lolsocbdqiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW00pRjjeYB9GwFYt9ZkU-_Yf2MC5nFAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512079784720-2rvh61tv3b1headl5eq52lolsocbdqiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
